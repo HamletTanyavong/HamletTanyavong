@@ -11,4 +11,4 @@ I have a degree in Physics and a minor in Mathematics from the University of Min
   - Discord App: Many of these tools will be available through a Discord application. Visit the support server [here](https://discord.gg/ga62UCHwsP).
 
 ### Other
-Activities I enjoy include reading, writing, gaming, and track & field.
+Activities I enjoy include reading, writing, digital art, gaming, and track & field.
