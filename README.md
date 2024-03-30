@@ -13,6 +13,3 @@ For general inquiries about my projects, or if you have any questions regarding 
   - API.
   - Web application.
   - Discord App: Many of these tools will be available through a Discord application.
-
-### Other
-Activities I enjoy include reading, writing, digital art, gaming, and track & field.
