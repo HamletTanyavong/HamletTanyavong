@@ -1,7 +1,7 @@
 ### About Me
 
 I have a degree in Physics and a minor in Mathematics from the University of Minnesota, Twin Cities. Most of the projects I create are for solving physics and mathematics problems, while the rest are for fun.
-For general inquiries about my projects, or if you have any questions regarding math and physics, please visit my Discord server [Physics & Mathematics](https://discord.gg/haqS9TVK8B).
+For general inquiries about my projects, or if you have any questions regarding math and physics, please visit my Discord server [Mathematics & Physics](https://discord.gg/haqS9TVK8B).
 
 ### Current Projects
 
